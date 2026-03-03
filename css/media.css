@@ -351,6 +351,9 @@
   .information > p:not(:last-child) {
     margin-bottom: 8px;
   }
+  .tabs {
+    padding-bottom: 59px;
+  }
   .card__row {
     margin-top: -10px;
   }
